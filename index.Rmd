@@ -1,0 +1,17 @@
+---
+title: "Matthew Harris"
+image: "IMG_9276.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/matthew-d-harris/"
+  - label: Twitter
+    url: "https://twitter.com/Md_Harris"
+  - label: GitHub
+    url: "https://github.com/mrecos/"
+  - label: Email
+    url: "mailto:matthew.harris@micadatalabs.com"
+output:
+  postcards::jolla
+---
+ 
+`r emo::ji("wave")`Hi! I Matt and I `r emo::ji("heart")`working with data to solve problems! I am an adjunt professor in Geospatial Data Science `r emo::ji("world_map")`and ML in the [Masters of Urban Spatial Analytics](https://www.design.upenn.edu/musa/about) (MUSA) graduate program at the University of Pennsylvania. While my academic training `r emo::ji("books")`is in Quantitative Anthropology, most of skills have come from a diverse career working in industry from fieldwork `r emo::ji("man_farmer")`to global corporate strategy`r emo::ji("man_office_worker")`and technical solutions`r emo::ji("man_technologist")`
