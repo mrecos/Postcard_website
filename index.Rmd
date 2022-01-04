@@ -1,6 +1,6 @@
 ---
 title: "Matthew Harris"
-image: "IMG_9276.jpg"
+image: "profile_circle.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/matthew-d-harris/"
@@ -11,7 +11,17 @@ links:
   - label: Email
     url: "mailto:matthew.harris@micadatalabs.com"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
-`r emo::ji("wave")` Howdy! I'm Matt and I `r emo::ji("heart")` working with data to solve problems! I am an adjunct professor in Geospatial Data Science `r emo::ji("world_map")` and ML in the [Masters of Urban Spatial Analytics](https://www.design.upenn.edu/musa/about) (MUSA) graduate program at the University of Pennsylvania. While my academic training `r emo::ji("books")` is in Quantitative Anthropology, most of skills have come from a diverse career working in industry from fieldwork `r emo::ji("man_farmer")` to global corporate strategy`r emo::ji("man_office_worker")` and technical solutions`r emo::ji("man_technologist")`.
+`r emo::ji("wave")` **Howdy!** I'm Matt and I `r emo::ji("heart")` working with data to solve problems! I am an adjunct professor in Geospatial Data Science `r emo::ji("world_map")` and ML in the [Masters of Urban Spatial Analytics](https://www.design.upenn.edu/musa/about) (MUSA) graduate program at the University of Pennsylvania. While my academic training `r emo::ji("books")` is in Quantitative Anthropology, most of skills have come from a diverse career working in industry from fieldwork `r emo::ji("man_farmer")` to global corporate strategy`r emo::ji("man_office_worker")` and technical solutions`r emo::ji("man_technologist")`.
+
+Along with my socials, check out:
+
+*  `r emo::ji("open_book")` **[Public Policy Analytics](https://urbanspatial.github.io/PublicPolicyAnalytics/)** | Ken Steif's fantastic book that I edit and maintain
+*  `r emo::ji("teacher")` **[MUSA Smartcities Practicum Projects](https://pennmusa.github.io/MUSA_801.io/)** | Capstone projects from my students
+*   `r emo::ji("package")` **[klrfome - Kernel Logistic Regression on Focal Mean Embeddings](https://github.com/mrecos/klrfome)** | My R package for modeling and predicting spatial embeddings
+*  `r emo::ji("memo")` **[matthewdharris.com](http://www.matthewdharris.com)** | Dated, but interesting posts from my past blog
+    + [Gaussian Process 1](https://matthewdharris.com/2016/05/16/gaussian-process-hyperparameter-estimation/),  [Gaussian Process 2](https://matthewdharris.com/2016/04/27/gaussian-process-in-feature-space/)
+    + [Geographic vs. Feature Space](https://matthewdharris.com/2016/04/19/predicting-in-feature-space/)
+    + [Hypurrr-ameter Grid Search with Purrr and Future](https://matthewdharris.com/2017/12/18/hypurrr-ameter-grid-search-with-purrr-and-future/)
