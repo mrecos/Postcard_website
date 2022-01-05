@@ -14,7 +14,7 @@ output:
   postcards::trestles
 ---
  
-`r emo::ji("wave")` **Howdy!** I'm Matt and I `r emo::ji("heart")` working with data to solve problems! I am an adjunct professor in Geospatial Data Science `r emo::ji("world_map")` and ML in the [Masters of Urban Spatial Analytics](https://www.design.upenn.edu/musa/about) (MUSA) graduate program at the University of Pennsylvania. While my academic training `r emo::ji("books")` is in Quantitative Anthropology, most of skills have come from a diverse career working in industry from fieldwork `r emo::ji("man_farmer")` to global corporate strategy`r emo::ji("man_office_worker")` and technical solutions`r emo::ji("man_technologist")`.
+`r emo::ji("wave")` **Howdy!** I'm Matt and I `r emo::ji("heart")` working with data to solve problems! I am an adjunct professor in Geospatial Data Science `r emo::ji("world_map")` and ML in the [Masters of Urban Spatial Analytics](https://www.design.upenn.edu/musa/about) (MUSA) graduate program at the University of Pennsylvania. While my academic training `r emo::ji("books")` is in Quantitative Anthropology, most of skills have come from a diverse career working in industry from fieldwork `r emo::ji("man_farmer")` to global corporate digital strategy`r emo::ji("man_office_worker")` and directing technical solutions`r emo::ji("man_technologist")`. Mainly, I just love to write code to improve the world in whatever way I can!
 
 Along with my socials, check out:
 
@@ -25,3 +25,11 @@ Along with my socials, check out:
     + [Gaussian Process 1](https://matthewdharris.com/2016/05/16/gaussian-process-hyperparameter-estimation/),  [Gaussian Process 2](https://matthewdharris.com/2016/04/27/gaussian-process-in-feature-space/)
     + [Geographic vs. Feature Space](https://matthewdharris.com/2016/04/19/predicting-in-feature-space/)
     + [Hypurrr-ameter Grid Search with Purrr and Future](https://matthewdharris.com/2017/12/18/hypurrr-ameter-grid-search-with-purrr-and-future/)
+    
+When not looking at a screen, I am passionate about cooking, pasta making, BBQ/Smoking, and bread. To offset that passion, I am an avid runner ([Strava](https://www.strava.com/athletes/2059383)) on road and trails, but more likely to be running after two small kids.
+
+<br>
+<br>
+
+---
+This site is made with the [postcards] [package](https://github.com/seankross/postcards) `r emo::ji("package")` thanks to [Sean Kross](https://twitter.com/seankross)!
